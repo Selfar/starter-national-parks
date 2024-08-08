@@ -19,6 +19,12 @@ body {
   color: #ffffff;
 }
 
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
+}
+
 main {
   padding: 6px;
   display: grid;
